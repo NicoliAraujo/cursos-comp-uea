@@ -1,0 +1,863 @@
+,Matrícula,Nome,Forma de Ingresso,Situação,Ingresso,Turno
+0,1915080050,Adan Thierry Souza Dos Santos,Vestibular,Ativo,2019/1,integral
+1,1915080001,Alejandro Da Rocha Loureiro,Vestibular,Ativo,2019/1,integral
+2,1915080049,Brayan Santos Da Silva,Vestibular,Ativo,2019/1,integral
+3,1915080060,Caio Vinicius Pereira Moura,SIS,Ativo,2019/1,integral
+4,1915080053,Davi Rodrigues De Franca,Vestibular,Ativo,2019/1,integral
+5,1915080032,Eduardo De Arruda Lira,SIS,Ativo,2019/1,integral
+6,1915080063,Fernando Araujo Alves Filho,SIS,Ativo,2019/1,integral
+7,1915080064,Gabriel Silva Pacheco De Carvalho,SIS,Ativo,2019/1,integral
+8,1915080011,Gabriella Rabelo Monteiro,Vestibular,Ativo,2019/1,integral
+9,1915080065,Giovanna Souza Teodoro,SIS,Ativo,2019/1,integral
+10,1915080057,Guilherme Melo Dos Santos,Vestibular,Ativo,2019/1,integral
+11,1915080052,Gustavo Faraco De Andrade Rodrigues,Vestibular,Ativo,2019/1,integral
+12,1915080066,Ian Mateus Ribeiro De Souza,SIS,Ativo,2019/1,integral
+13,1915080034,Igor Carvalho Costa,SIS,Ativo,2019/1,integral
+14,1915080014,Joao Filipe Da Silva Brandao,Vestibular,Ativo,2019/1,integral
+15,1915080036,Leticia Minelvino Da Costa,SIS,Ativo,2019/1,integral
+16,1915080037,Lohan Victor Da Silva De Freitas,SIS,Ativo,2019/1,integral
+17,1915080016,Luan Carlos Amorim Da Silva,Vestibular,Ativo,2019/1,integral
+18,1915080068,Lucas Migliorin Da Rosa,SIS,Ativo,2019/1,integral
+19,1915080018,Luiz Gustavo De Brito Araujo,Vestibular,Cancelado,2019/1,integral
+20,1915080047,Luiz Pedro Araujo De Almeida,Vestibular,Ativo,2019/1,integral
+21,1915080020,Melque Zedeque Soares Araujo,Vestibular,Ativo,2019/1,integral
+22,1915080077,Milton Honorio Pinheiro Neto,Vestibular,Ativo,2019/1,integral
+23,1915080039,Nadila Da Silva De Azevedo,SIS,Ativo,2019/1,integral
+24,1915080041,Paulo Julio Goncalves Monteiro,SIS,Ativo,2019/1,integral
+25,1915080022,Rafael Aragao Morais,Vestibular,Ativo,2019/1,integral
+26,1915080042,Rafael Emiliano Mendes,SIS,Ativo,2019/1,integral
+27,1915080024,Robert Batalha De Paula,Vestibular,Ativo,2019/1,integral
+28,1915080043,Santiago Augusto De Souza Monteiro,SIS,Ativo,2019/1,integral
+29,1915080083,Thiago Silva Jezini,SIS,Ativo,2019/1,integral
+30,1915080025,Victor Hugo Santos De Lima,Vestibular,Ativo,2019/1,integral
+31,1915080048,Victor Rafael Ordozgoite,Vestibular,Ativo,2019/1,integral
+32,1915080026,Vinicius Patricio Medeiros Da Silva,Vestibular,Cancelado,2019/1,integral
+33,1915080027,Yan Lucas Cavalcante Rodrigues,Vestibular,Cancelado,2019/1,integral
+34,1815080028,Anne Lais Da Silva Rodrigues,SIS,Cancelado,2018/1,integral
+35,1815080067,Carla Larissa Lima De Abreu,Vestibular,Ativo,2018/1,integral
+36,1815080079,Carlos Gabriel Da Silva Machado,Vestibular,Ativo,2018/1,integral
+37,1815080002,Daniel Benoliel Malcher,Vestibular,Ativo,2018/1,integral
+38,1815080029,Daniel Nunes Costa De Souza,SIS,Ativo,2018/1,integral
+39,1815080030,David D Avila Acris,SIS,Cancelado,2018/1,integral
+40,1815080080,Debora Moraes Pereira,Vestibular,Ativo,2018/1,integral
+41,1815080055,Derik Da Conceicao Vila,Vestibular,Ativo,2018/1,integral
+42,1815080056,Diego Lucena De Medeiros,Vestibular,Ativo,2018/1,integral
+43,1815080003,Edson Cabral Das Neves Junior,Vestibular,Ativo,2018/1,integral
+44,1815080004,Eduardo Peres De Lima,Vestibular,Ativo,2018/1,integral
+45,1815080005,Elian Da Costa Souza,Vestibular,Cancelado,2018/1,integral
+46,1815080006,Elton Jonathas Da Silva Lucas Junior,Vestibular,Cancelado,2018/1,integral
+47,1815080007,Emerson Da Silva Sales,Vestibular,Ativo,2018/1,integral
+48,1815080008,Endy Mitsuya Takano,Vestibular,Ativo,2018/1,integral
+49,1815080057,Gabriel Costa Ribeiro Maues,Vestibular,Cancelado,2018/1,integral
+50,1815080073,Gabriel Dos Santos Batista,SIS,Ativo,2018/1,integral
+51,1815080074,George Guilherme Souza Da Silva,SIS,Ativo,2018/1,integral
+52,1815080033,Iranildo Santos Batalha,SIS,Ativo,2018/1,integral
+53,1815080034,Isabelle Brilhante Figarella Rego,SIS,Cancelado,2018/1,integral
+54,1815080044,Jair Da Silva Luciano,Vestibular,Ativo,2018/1,integral
+55,1815080011,Jessica Brito Moura,Vestibular,Cancelado,2018/1,integral
+56,1815080086,Joao Luiz Nascimento Basilio,SIS,Ativo,2018/1,integral
+57,1815080082,Joao Victor Silva De Sousa,Vestibular,Ativo,2018/1,integral
+58,1815080046,Joao Victor Silva De Sousa,Vestibular,Ativo,2018/1,integral
+59,1815080035,Jogno Vezu Junior,SIS,Ativo,2018/1,integral
+60,1815080012,Jose Lazaro Ramos Da Silva Neto,Vestibular,Ativo,2018/1,integral
+61,1815080049,Juan Pablo De Abreu,SIS,Ativo,2018/1,integral
+62,1815080013,Kennedy Henrique Da Silva Oliveira,Vestibular,Cancelado,2018/1,integral
+63,1815080076,Kevin Alves Dos Santos,SIS,Ativo,2018/1,integral
+64,1815080014,Leonardo Pereira Lima,Vestibular,Cancelado,2018/1,integral
+65,1815080015,Leticia De Souza Correa,Vestibular,Ativo,2018/1,integral
+66,1815080016,Leticia Magalhaes Mendes,Vestibular,Ativo,2018/1,integral
+67,1815080052,Luan Lucas Alves Pinto,SIS,Ativo,2018/1,integral
+68,1815080017,Lucas Castro De Souza,Vestibular,Cancelado,2018/1,integral
+69,1815080018,Lucas De Oliveira Carvalho,Vestibular,Cancelado,2018/1,integral
+70,1815080078,Lucas Dos Anjos Silva,SIS,Ativo,2018/1,integral
+71,1815080019,Lucas Fernando Pena Farias,Vestibular,Ativo,2018/1,integral
+72,1815080020,Luis Fernando Ramalho De Freitas,Vestibular,Ativo,2018/1,integral
+73,1815080048,Mariana Regina Costa Lopes,Vestibular,Ativo,2018/1,integral
+74,1815080022,Matheus Douglas Ribeiro Araujo,Vestibular,Ativo,2018/1,integral
+75,1815080023,Mathews Dillan Silva Da Costa,Vestibular,Ativo,2018/1,integral
+76,1815080037,Noe Natal Magno Das Chagas,SIS,Cancelado,2018/1,integral
+77,1815080025,Paulo Eduardo Ribeiro Cativo,Vestibular,Ativo,2018/1,integral
+78,1815080087,Philipi Meneghini Simas,SIS,Ativo,2018/1,integral
+79,1815080026,Rafael Lucio Martins,Vestibular,Cancelado,2018/1,integral
+80,1815080039,Rafaela De Azevedo Lima,SIS,Cancelado,2018/1,integral
+81,1815080040,Roberto Alves Neto,SIS,Ativo,2018/1,integral
+82,1815080041,Sabrina Millane Oliveira Da Silva,SIS,Ativo,2018/1,integral
+83,1815080042,Sherman Valeska Serrao Bezerra,SIS,Cancelado,2018/1,integral
+84,1815080027,Victor Yuri Ferreira Lima,Vestibular,Cancelado,2018/1,integral
+85,1715080553,Abraao Brito Brandao,Vestibular,Ativo,2017/1,integral
+86,1715080228,Adria Albuquerque Castro,SIS,Ativo,2017/1,integral
+87,1715080490,Alexandre Bruno Mota Dos Santos,Vestibular,Ativo,2017/1,integral
+88,1715080005,Alexandre Do Valle Ferreira,Vestibular,Ativo,2017/1,integral
+89,1715080640,Allan Higor Liborio Pardinho,Vestibular,Ativo,2017/1,integral
+90,1715080554,Amanda Serique Pinheiro,Vestibular,Ativo,2017/1,integral
+91,1715080237,Ana Beatriz Pereira Colares,SIS,Cancelado,2017/1,integral
+92,1715080010,Ana Paula Cavalcante Da Silva,Vestibular,Ativo,2017/1,integral
+93,1715080646,Bernardo Matheus Sarmento Kanekiyo,Vestibular,Ativo,2017/1,integral
+94,1715080386,Bruno Di Lucca Serrao Lins Pinto,Vestibular,Ativo,2017/1,integral
+95,1715080249,Bruno Simoes Cardoso Ferreira,SIS,Ativo,2017/1,integral
+96,1715080022,Carlos Alberto Hagge Da Cunha Filho,Vestibular,Ativo,2017/1,integral
+97,1715080253,Daniel Akio Chen,SIS,Ativo,2017/1,integral
+98,1715080036,Danilo Souza Frazao,Vestibular,Ativo,2017/1,integral
+99,1715080038,David Cardoso Yonekura,Vestibular,Ativo,2017/1,integral
+100,1715080649,Eduardo De Souza Nogueira,Vestibular,Ativo,2017/1,integral
+101,1715080561,Erlan Da Costa,Vestibular,Cancelado,2017/1,integral
+102,1715080460,Felipe Lima Ribas,SIS,Cancelado,2017/1,integral
+103,1715080272,Gabriel Alexander F De L Teixeira,SIS,Cancelado,2017/1,integral
+104,1715080565,Gabrielle Stephanie Pires Mestrinho,Vestibular,Ativo,2017/1,integral
+105,1715080288,Ian Gustavo Alves Pessoa Silva,Outros,Ativo,2017/1,integral
+106,1715080102,Israel Oliveira Costa,Vestibular,Ativo,2017/1,integral
+107,1715080108,Jesus Dourado De Albuquerque,Vestibular,Ativo,2017/1,integral
+108,1715080615,Josue Costa Dos Santos Alves,SIS,Ativo,2017/1,integral
+109,1715080305,Juan Carlo Da Costa Paes,SIS,Ativo,2017/1,integral
+110,1715080133,Juliana De Souza Pompeu,Vestibular,Cancelado,2017/1,integral
+111,1715080692,Julio Cesar Marinho Carvalho,SIS,Ativo,2017/1,integral
+112,1715080416,Leonardo Fish Pimenta,Vestibular,Ativo,2017/1,integral
+113,1715080324,Luiz Carlos Glomyer Pereira Gomes Junior,SIS,Ativo,2017/1,integral
+114,1715080327,Luiz Osmar Cunha Augusto Ruiz,SIS,Ativo,2017/1,integral
+115,1715080422,Lutiano Eryckson Dos Santos Guerreiro,Vestibular,Cancelado,2017/1,integral
+116,1715080623,Marcos William Cardoso Dos Santos,SIS,Ativo,2017/1,integral
+117,1715080431,Mateus De Lucena Tavares,Vestibular,Ativo,2017/1,integral
+118,1715080625,Matheus Costa De Oliveira,SIS,Ativo,2017/1,integral
+119,1715080627,Michael Henrique Ferreira Silvestre,SIS,Ativo,2017/1,integral
+120,1715080351,Pedro Yan Panza Da Silva,SIS,Ativo,2017/1,integral
+121,1715080187,Rafael Maquine Lopes,Vestibular,Cancelado,2017/1,integral
+122,1715080192,Raul Henrique Moraes De Oliveira,Vestibular,Ativo,2017/1,integral
+123,1715080204,Talita Gomes Santos,Vestibular,Ativo,2017/1,integral
+124,1715080635,Tallis Bruce Rodrigues Oliveira,SIS,Ativo,2017/1,integral
+125,1715080666,Thelsandro Costa Antunes,Vestibular,Ativo,2017/1,integral
+126,1715080220,Vitor Luiz Lage Perez De Rosario,Vestibular,Ativo,2017/1,integral
+127,1615080003,Afonso Ramos Garcia Neto,Vestibular,Ativo,2016/1,integral
+128,1615080491,Alexandre Barroso,SIS,Ativo,2016/1,integral
+129,1615080235,Allek Tavares Fermin,SIS,Ativo,2016/1,integral
+130,1615080011,Andre Ricardo Marques Rogerio,Vestibular,Ativo,2016/1,integral
+131,1615080452,Arthur Gomes Valadao,Vestibular,Ativo,2016/1,integral
+132,1615080247,Artur Da Silva Santos,SIS,Ativo,2016/1,integral
+133,1615080422,Auxiliadora Domingas Cardoso,Vestibular,Ativo,2016/1,integral
+134,1615080251,Beatriz Moura Da Silva,SIS,Ativo,2016/1,integral
+135,1615080020,Bonifacio Leite De Oliveira Filho,Vestibular,Ativo,2016/1,integral
+136,1615080456,Carlos Diego Ferreira De Almeida,Vestibular,Ativo,2016/1,integral
+137,1615080463,Christian D Deus Lira Cruz,Vestibular,Ativo,2016/1,integral
+138,1615080031,Crislian Michel Barreto Machado,Vestibular,Ativo,2016/1,integral
+139,1615080496,Felipe Fonseca Bremgartner,SIS,Ativo,2016/1,integral
+140,1615080525,Gian Carlos Pedrosa Vieira,Vestibular,Ativo,2016/1,integral
+141,1615080606,Guilherme Mota Derzi,SIS,Ativo,2016/1,integral
+142,1615080292,Gustavo Ivens Rosario Medeiros,SIS,Ativo,2016/1,integral
+143,1615080095,Jansen Saunier De Alcantara Junior,Vestibular,Cancelado,2016/1,integral
+144,1615080096,Jean Phelipe De Oliveira Lima,Vestibular,Ativo,2016/1,integral
+145,1615080300,Joao Guilherme Silva Gomes,SIS,Ativo,2016/1,integral
+146,1615080303,Joao Victor Melo De Oliveira,SIS,Ativo,2016/1,integral
+147,1615080314,Kelly Larissa Souza De Lucena,SIS,Ativo,2016/1,integral
+148,1615080320,Leonardo Monteiro Neres De Lima,SIS,Ativo,2016/1,integral
+149,1615080542,Letícia Martins Vieira,Vestibular,Ativo,2016/1,integral
+150,1615080131,Levi Da Silva Lima,Vestibular,Ativo,2016/1,integral
+151,1615080322,Lorena Araujo Guerreiro,SIS,Ativo,2016/1,integral
+152,1615080152,Luiz Carlos Silva De Araujo Filho,Vestibular,Ativo,2016/1,integral
+153,1615080153,Luiz Pedro Gadelha Da Silva,Vestibular,Ativo,2016/1,integral
+154,1615080159,Marcos Pedro Figueiredo Matos,Vestibular,Ativo,2016/1,integral
+155,1615080430,Mateus Pereira De Sa Barbosa,Vestibular,Ativo,2016/1,integral
+156,1615080339,Mikael Fonseca Pinto,SIS,Ativo,2016/1,integral
+157,1615080429,Nicolas Fernandes De Lima,Vestibular,Ativo,2016/1,integral
+158,1615080595,Paulo Sergio Da Silva Freitas Junior,Vestibular,Ativo,2016/1,integral
+159,1615080350,Raphaela Lima De Araujo Goes,SIS,Cancelado,2016/1,integral
+160,1615080356,Sarah Da Silva Silveira,SIS,Ativo,2016/1,integral
+161,1615080484,Victor Alfaia De Souza,SIS,Ativo,2016/1,integral
+162,1615080372,Vyctor Lima Negreiros,SIS,Ativo,2016/1,integral
+163,1615080226,William Azevedo Da Silva,Vestibular,Ativo,2016/1,integral
+164,1615080545,William Do Vale Cavalcante Freitas,Vestibular,Ativo,2016/1,integral
+165,1515080001,Abrahao Carlem Grimm Moniz Bezerra,Vestibular,Cancelado,2015/1,integral
+166,1515080008,Alex Torres Carvalho,Vestibular,Ativo,2015/1,integral
+167,1515080510,Beatriz Stephany Colares De Lima,SIS,Ativo,2015/1,integral
+168,1515080023,Caio Hermano Sampaio De Oliveira,Vestibular,Cancelado,2015/1,integral
+169,1515080040,Domicio Araujo Pereira Neto,Vestibular,Cancelado,2015/1,integral
+170,1515080508,Fabiana De Souza Bezerra,SIS,Cancelado,2015/1,integral
+171,1515080027,Fabíola Mendonca Maciel,Vestibular,Cancelado,2015/1,integral
+172,1515080534,Felipe Getulio Laranjeira Do Nascimento,SIS,Ativo,2015/1,integral
+173,1515080080,Iesa Braga Lobato,Vestibular,Ativo,2015/1,integral
+174,1515080109,Igor Araujo Bezerra,Vestibular,Cancelado,2015/1,integral
+175,1515080101,Jonathan Maia Ferreira,Vestibular,Ativo,2015/1,integral
+176,1515080577,Leticia Carvalho Passos,SIS,Ativo,2015/1,integral
+177,1515080170,Lucas Da Silva Lima,Vestibular,Ativo,2015/1,integral
+178,1515080128,Lucas Mateus Da Silva Messias,Vestibular,Ativo,2015/1,integral
+179,1515080583,Lucas Pereira Reis,SIS,Ativo,2015/1,integral
+180,1515080172,Luiz Henrique Barros De Souza,Vestibular,Ativo,2015/1,integral
+181,1515080143,Matheus Obando Da Silva,Vestibular,Cancelado,2015/1,integral
+182,1515080584,Olga De Sá Leão Alves,SIS,Ativo,2015/1,integral
+183,1515080599,Paulo Silveira Jennings,SIS,Ativo,2015/1,integral
+184,1515080600,Paulo Victor Silva De Almeida,SIS,Cancelado,2015/1,integral
+185,1515080593,Ricardo Da Silva Almeida,SIS,Cancelado,2015/1,integral
+186,1515080176,Roberto Bevilaqua De Carvalho,Vestibular,Ativo,2015/1,integral
+187,1515080186,Sywan Peixoto Silva Neto,Vestibular,Cancelado,2015/1,integral
+188,1515080618,Thatielen Oliveira Pereira,SIS,Ativo,2015/1,integral
+189,1515080197,Victor Souza Lopes,Vestibular,Ativo,2015/1,integral
+190,1515080624,Vitor Matheus De Souza Carvalho,SIS,Ativo,2015/1,integral
+191,1415080006,Alex Panizza Jalkh Filho,Vestibular,Cancelado,2014/1,integral
+192,1415080092,Alexandre Gadelha Campos,Vestibular,Cancelado,2014/1,integral
+193,1415080020,Anibal Silva Batista Junior,Vestibular,Ativo,2014/1,integral
+194,1415080034,Bruno Silva Do Carmo,Vestibular,Ativo,2014/1,integral
+195,1415080321,Christian D Deus Lira Cruz,SIS,Cancelado,2014/1,integral
+196,1415080045,Daniel De Oliveira Trindade,Vestibular,Cancelado,2014/1,integral
+197,1415080334,Emanuel Oliveira Da Silva,Vestibular,Concluido,2014/1,integral
+198,1415080135,Erick Da Silva Farias,Vestibular,Ativo,2014/1,integral
+199,1415080062,Erick Farley Carvalho Campos,Vestibular,Ativo,2014/1,integral
+200,1415081001,Gabriel Rosario Capitano,Intercâmbio,Cancelado,2014/1,integral
+201,1415080348,Giovana Oliveira De Lucca,Vestibular,Concluido,2014/1,integral
+202,1415080090,Humberto Ribeiro Horta Bisneto,Vestibular,Cancelado,2014/1,integral
+203,1415080095,Isabella Reboucas Cordeiro,Vestibular,Ativo,2014/1,integral
+204,1415080353,Janderson Do Nascimento Lira,SIS,Concluido,2014/1,integral
+205,1415080136,Jonathas Barroso De Lima,Vestibular,Cancelado,2014/1,integral
+206,1415080361,Júlio Rickson Alves Rodrigues,Vestibular,Cancelado,2014/1,integral
+207,1415080098,Karla Karoline Nogueira Felix,Vestibular,Ativo,2014/1,integral
+208,1415080131,Leonardo Maia De Lima,Vestibular,Ativo,2014/1,integral
+209,1415080304,Liliana Oliveira Da Silva,Vestibular,Ativo,2014/1,integral
+210,1415080139,Lucas Gabriel Coimbra Evangelista,Vestibular,Ativo,2014/1,integral
+211,1415080317,Luis Henrique Marinho Alves,SIS,Ativo,2014/1,integral
+212,1415080151,Luiz Eduardo Fernandes Bentes,Vestibular,Ativo,2014/1,integral
+213,1415080074,Luiz Felipe Neves Gama,Vestibular,Cancelado,2014/1,integral
+214,1415080138,Marcos Wenneton Vieira De Araujo,Vestibular,Ativo,2014/1,integral
+215,1415080379,Matheus Kazuo Hoshihara Carvalho,Vestibular,Ativo,2014/1,integral
+216,1415080166,Matheus Miranda Matos,Vestibular,Concluido,2014/1,integral
+217,1415080167,Matheus Soares Da Silva,Vestibular,Cancelado,2014/1,integral
+218,1415080143,Patrick Yan Dantas Motta,Vestibular,Cancelado,2014/1,integral
+219,1415080178,Paulo Henrique De Souza Correa,Vestibular,Cancelado,2014/1,integral
+220,1415080179,Paulo Roberto Braga Barbosa Neto,Vestibular,Cancelado,2014/1,integral
+221,1415080103,Pedro Augusto Araujo Sena,Vestibular,Cancelado,2014/1,integral
+222,1415080040,Rafaela Dos Santos Sousa,Vestibular,Ativo,2014/1,integral
+223,1415080190,Ricardo Batista Gomes,Vestibular,Cancelado,2014/1,integral
+224,1415080193,Rodrigo Gomes De Souza,Vestibular,Cancelado,2014/1,integral
+225,1415080050,Salomão Augusto Vilaça Corrêa,Vestibular,Ativo,2014/1,integral
+226,1415081002,Terry Yannick Marcel Roger Boudan,Intercâmbio,Cancelado,2014/1,integral
+227,1415080204,Thomaz Breno Nascimento Dos Santos,Vestibular,Cancelado,2014/1,integral
+228,1415080397,Victor Castelo Branco Corrêa,SIS,Cancelado,2014/1,integral
+229,1415080222,Willyan Dyeno Silva De Oliveira Dos Santos,Vestibular,Ativo,2014/1,integral
+230,1415080404,Wuppschlander Muller Da Silva Lima,Mand. Seg - SIS,Ativo,2014/1,integral
+231,1315080222,Abda Myrria De Albuquerque,SAES,Ativo,2013/1,integral
+232,1315080002,Ana Gabriela Pires E Silva,Vestibular,Ativo,2013/1,integral
+233,1315080015,Angelo Lima De Oliveira,Vestibular,Cancelado,2013/1,integral
+234,1315080231,Antônio Arquelau De Oliveira Silva Junior,SAES,Concluido,2013/1,integral
+235,1315080034,Daniel Costa De Oliveira,Vestibular,Cancelado,2013/1,integral
+236,1315080039,David Freitas De Oliveira,Vestibular,Ativo,2013/1,integral
+237,1315080041,Diego Menezes Lopes,Vestibular,Ativo,2013/1,integral
+238,1315080042,Douglas Lima Dantas,Vestibular,Concluido,2013/1,integral
+239,1315080316,Eduardo Da Encarnação Morais,SAES,Ativo,2013/1,integral
+240,1315080056,Fernando Barreto Da Costa,Vestibular,Cancelado,2013/1,integral
+241,1315080057,Fernando Gabriel Batista Lima,Vestibular,Cancelado,2013/1,integral
+242,1315080308,Gabriel Bezerra Nascimento,SAES,Cancelado,2013/1,integral
+243,1315080064,Gabriel Sevalho Bruno,Vestibular,Ativo,2013/1,integral
+244,1315080254,Gabriel Yan Abrahim Gomes Mitoso,SAES,Concluido,2013/1,integral
+245,1315080085,Jhone Mendonça Gomes,Vestibular,Ativo,2013/1,integral
+246,1315080295,Lahis Gomes De Almeida,SAES,Concluido,2013/1,integral
+247,1315080210,Luan Kálen Cardoso Silva,SAES,Cancelado,2013/1,integral
+248,1315080305,Lucas Almeida Da Silva,SAES,Ativo,2013/1,integral
+249,1315080139,Nicoli Pinheiro De Araujo,Vestibular,Concluido,2013/1,integral
+250,1315080062,Paulo Henrique De Alcantara Rocha,Vestibular,Concluido,2013/1,integral
+251,1315080337,Rafael Barbosa De Carvalho,SAES,Ativo,2013/1,integral
+252,1315208157,Rodrigo Da Costa Moraes,Reopção,Ativo,2013/1,integral
+253,1315080112,Rodrigo Lira Barros,Vestibular,Cancelado,2013/1,integral
+254,1315080166,Tarcisio Lelis Da Costa,Vestibular,Cancelado,2013/1,integral
+255,1315080185,Yan Rodrigues Graça,Vestibular,Ativo,2013/1,integral
+256,1215080201,Alberto Da Silva Carvalho Filho,SAES,Cancelado,2012/1,integral
+257,1215080036,Estevam Nicolas Chen,Vestibular,Concluido,2012/1,integral
+258,1215080232,Fabio Luiz Guimarães Oliveira,SAES,Cancelado,2012/1,integral
+259,1215080268,Fabricio Mady Da Silva,SAES,Ativo,2012/1,integral
+260,1215080042,Francisco Elio Parente Arcos Filho,Vestibular,Ativo,2012/1,integral
+261,1215080005,Huanderson Jose De Lima Mendes,Vestibular,Ativo,2012/1,integral
+262,1215080283,Icaro Gonçalves Bermeu,SAES,Ativo,2012/1,integral
+263,1215080054,Jheralmy Hastem Santos Araujo Da Silva,Vestibular,Cancelado,2012/1,integral
+264,1215080064,Jose Diogo Dutra Pacheco,Vestibular,Cancelado,2012/1,integral
+265,1215080318,Leticia Da Silva Mota,SAES,Ativo,2012/1,integral
+266,1215080286,Letícia Medeiros Corrêa,SAES,Ativo,2012/1,integral
+267,1215080333,Luan De Moraes Belo,SAES,Ativo,2012/1,integral
+268,1215080298,Luiz Henrique Tomaz Castro Andrade,SAES,Cancelado,2012/1,integral
+269,1215080083,Luiz Ricardo Gomes Gama,Vestibular,Cancelado,2012/1,integral
+270,1215080093,Matheus Cascaes Lopes,Vestibular,Cancelado,2012/1,integral
+271,1215080094,Matheus Palheta Barbosa,Vestibular,Cancelado,2012/1,integral
+272,1215080106,Patrick Magalhães De Lima,Vestibular,Concluido,2012/1,integral
+273,1215080018,Pedro Augusto Franco Ribeiro,Vestibular,Concluido,2012/1,integral
+274,1215080321,Pâmela Euridice Da Silva Beleza Baltazar,SAES,Cancelado,2012/1,integral
+275,1215080342,Rachel Batalha De Lima,SAES,Concluido,2012/1,integral
+276,1215080212,Silvano Freitas Santos,SAES,Cancelado,2012/1,integral
+277,1215080348,Thatianne Araujo Pessoa Maruyama,SAES,Ativo,2012/1,integral
+278,1115080002,Adelia Tayane Figueira Ferreira,Vestibular,Ativo,2011/1,integral
+279,1115080085,Caio Rodrigues Pinto,Vestibular,Cancelado,2011/1,integral
+280,1115080086,Cláudio Renan De Paiva Silva,Vestibular,Cancelado,2011/1,integral
+281,1115080228,Diogo Abreu Da Silva,SAES,Cancelado,2011/1,integral
+282,1115080048,Eder Dias Resende,Vestibular,Cancelado,2011/1,integral
+283,1115080234,Fabio Pires Benigno,SAES,Concluido,2011/1,integral
+284,1115080071,Genizardo Trajano De Figueiredo,Vestibular,Cancelado,2011/1,integral
+285,1115080073,Giovanni Ribeiro Caldeira,Vestibular,Concluido,2011/1,integral
+286,1115080098,Jafé Ferreira De Souza,Vestibular,Cancelado,2011/1,integral
+287,1115080094,Jordam De Souza Araujo,Vestibular,Cancelado,2011/1,integral
+288,1115080068,Josiel Wirlino Vieira Dos Santos,Vestibular,Concluido,2011/1,integral
+289,1115080117,Marcelo Da Gama Monteiro,Vestibular,Cancelado,2011/1,integral
+290,1115080124,Monique Sales Dos Santos,Vestibular,Ativo,2011/1,integral
+291,1115080133,Nicolau Pereira De Maria Neto,Vestibular,Cancelado,2011/1,integral
+292,1115080138,Paulo Andre Campos De Moura,Vestibular,Cancelado,2011/1,integral
+293,1115080046,Rafael Barbosa Alves,Vestibular,Cancelado,2011/1,integral
+294,1115080149,Rafael De Beni,Vestibular,Concluido,2011/1,integral
+295,1115080318,Rodrigo De Souza Maduro,SAES,Concluido,2011/1,integral
+296,1115080309,Sebastião Fonseca Monteiro Júnior,SAES,Concluido,2011/1,integral
+297,1115080167,Sergio Henrique Brito De Lima Da Silva Cruz,Vestibular,Cancelado,2011/1,integral
+298,1115080169,Tadeu Dos Santos Da Silva,Vestibular,Ativo,2011/1,integral
+299,1115080341,Tailan Cardoso Mendes,SAES,Ativo,2011/1,integral
+300,1115080256,Victor Rafael Da Silva E Silva,SAES,Cancelado,2011/1,integral
+301,1015080202,Andrew Marcelo Lopes Uchoa,Vestibular,Cancelado,2010/1,integral
+302,1015080241,André Luis Mattos Santos,Vestibular,Cancelado,2010/1,integral
+303,1015080211,Bruna Louise Silva De Oliveira,SAES,Cancelado,2010/1,integral
+304,1015080212,Bruno Da Silva Cabral,SAES,Cancelado,2010/1,integral
+305,1015080023,Caio Guedes De Souza Mendes,Vestibular,Cancelado,2010/1,integral
+306,1015080027,Carlos Antonio Silva Da Silva,Vestibular,Cancelado,2010/1,integral
+307,1015080010,Edinelson Almeida Peixoto Junior,Vestibular,Ativo,2010/1,integral
+308,1035080001,Franklin Cordovil Barbosa Neto,Transferencia,Ativo,2010/1,integral
+309,1015080354,Heberth Cunha Batista,SAES,Cancelado,2010/1,integral
+310,1015080011,Hugo Barros Bernardino,Vestibular,Cancelado,2010/1,integral
+311,1015080258,Icaro Farias Da Gama,SAES,Cancelado,2010/1,integral
+312,1015080068,Ivan Lucas De Oliveira Pacheco,Vestibular,Cancelado,2010/1,integral
+313,1015080280,José Max Dias Figueira Junior,SAES,Ativo,2010/1,integral
+314,1015080018,Junio Lima Dos Santos,Vestibular,Cancelado,2010/1,integral
+315,1015080234,Kaleb Dias Da Silva,SAES,Concluido,2010/1,integral
+316,1015080053,Kaleb Santos Costa,Vestibular,Cancelado,2010/1,integral
+317,1015080087,Kaynã Braga Guarany,Vestibular,Cancelado,2010/1,integral
+318,1015080289,Leandro Da Cruz Farias,SAES,Concluido,2010/1,integral
+319,1015080103,Lucas Begníni Costa,Vestibular,Concluido,2010/1,integral
+320,1015080300,Marcelo Pacheco Do Amaral,SAES,Concluido,2010/1,integral
+321,1015080122,Mauricyo Santiago Da Silva,Reopção,Cancelado,2010/1,integral
+322,1015080316,Paulo Barbosa De Almeida Junior,SAES,Ativo,2010/1,integral
+323,1015080319,Paulo Victor Quintela Julião Akel,SAES,Cancelado,2010/1,integral
+324,1015080328,Rodrigo Fernandes Da Costa,SAES,Cancelado,2010/1,integral
+325,1015080184,Wallace Costa Duarte,SAES,Concluido,2010/1,integral
+326,1015080178,Weverton Freitas Perdigão,Vestibular,Concluido,2010/1,integral
+327,1015080353,William Dos Santos Affonso,SAES,Concluido,2010/1,integral
+328,825080247,Alexandre Ramon Moura Dias,SAES,Cancelado,2009/1,integral
+329,825080010,Anderson Ferreira De Souza,Vestibular,Cancelado,2009/1,integral
+330,825080025,Daniel Henrique Braz De Aquino,Vestibular,Concluido,2009/1,integral
+331,825080027,Darlisson Marinho De Jesus,Vestibular,Concluido,2009/1,integral
+332,825080278,Djalma Beraldo Batista,SAES,Cancelado,2009/1,integral
+333,825080044,Erasmo Franca Mores,Vestibular,Cancelado,2009/1,integral
+334,825080054,Felipe Kenji Saito Santana,Vestibular,Ativo,2009/1,integral
+335,825080284,Gabriel Gamaniel Guerra De Oliveira,SAES,Ativo,2009/1,integral
+336,825080273,Gabriel Tadayoshi Rodrigues Oka,SAES,Concluido,2009/1,integral
+337,825080339,Gabriela Carvalho Camilo,Reopção,Cancelado,2009/1,integral
+338,825080196,Iasmim Souza Da Cunha,SAES,Concluido,2009/1,integral
+339,825080074,Israel Licurgo Leal,Vestibular,Cancelado,2009/1,integral
+340,825080082,Jeyson Rodrigues Moreira,Vestibular,Cancelado,2009/1,integral
+341,825080342,Joelton Dos Santos Matos,SAES,Concluido,2009/1,integral
+342,825080091,Juliana Gorayeb Postal,Vestibular,Cancelado,2009/1,integral
+343,825080092,Juliane Dos Santos Silva,Vestibular,Concluido,2009/1,integral
+344,825080093,Juliano Oishi Leal,Vestibular,Cancelado,2009/1,integral
+345,825080229,Kevin Gustavo Montero Quispe,Vestibular,Concluido,2009/1,integral
+346,825080223,Leandro Maurício Araújo Bentes,Vestibular,Concluido,2009/1,integral
+347,825080107,Lucas Afonso Casanova De Oliveira Nogueira,Vestibular,Cancelado,2009/1,integral
+348,825080222,Luiz Eduardo Da Silva Melo,SAES,Cancelado,2009/1,integral
+349,825080300,Mara Tatiani Lobato Oliveira,Vestibular,Cancelado,2009/1,integral
+350,825080356,Nayana Andrade Campelo,SAES,Concluido,2009/1,integral
+351,825080350,Otávio Da Rocha Lima,SAES,Concluido,2009/1,integral
+352,825080136,Patrick Santana Alves Fernandes,Vestibular,Cancelado,2009/1,integral
+353,825080137,Paulo Afonso De Alcantara Ferreira,Vestibular,Cancelado,2009/1,integral
+354,935080001,Rafael Cesar Mota Nassib Olimpio,Transferencia,Cancelado,2009/1,integral
+355,825080348,Rai Campos Lucena,SAES,Cancelado,2009/1,integral
+356,825080248,Roberto De Almeida Cruz Neto,SAES,Cancelado,2009/1,integral
+357,825080288,Ulysses Orlando Gonzaga Das Chagas,Vestibular,Cancelado,2009/1,integral
+358,825080020,Vinicius Avelino Berenguer Barbosa,Vestibular,Cancelado,2009/1,integral
+359,825080178,Walderi Moraes Willy Filho,Vestibular,Ativo,2009/1,integral
+360,825080180,Welderlan Sena Monteiro,Vestibular,Cancelado,2009/1,integral
+361,825080279,Williams Monteiro De Araújo,SAES,Concluido,2009/1,integral
+362,725080155,Adriano Da Silva Melo,Vestibular,Cancelado,2008/1,integral
+363,725080043,Andressa Fonseca Pinto,Vestibular,Cancelado,2008/1,integral
+364,725080333,Bruno Ramos De Lemos Leandro,SAES,Ativo,2008/1,integral
+365,725080135,Carlos Alberto Mota Da Silva Filho,Vestibular,Concluido,2008/1,integral
+366,725080010,Diego De Azevedo Barros,Vestibular,Concluido,2008/1,integral
+367,725080123,Evangelista Ramos Marinho,Vestibular,Cancelado,2008/1,integral
+368,725080368,Frank Sampaio Silva,SAES,Concluido,2008/1,integral
+369,725080444,Gustavo L Pinheiro Da Silva,SAES,Cancelado,2008/1,integral
+370,725080017,Helder Cunha Batista,Vestibular,Concluido,2008/1,integral
+371,725080394,Jorge Renan Silva De Sá,SAES,Cancelado,2008/1,integral
+372,725080397,Josiane Rodrigues Da Silva,SAES,Concluido,2008/1,integral
+373,725080140,João Guilherme Rocha Gomes,Vestibular,Concluido,2008/1,integral
+374,725080401,Juliana Martins Figueira,SAES,Concluido,2008/1,integral
+375,725080415,Luana Batista Costa,SAES,Cancelado,2008/1,integral
+376,725080106,Luiz Sergio De Britto Pinto,Vestibular,Concluido,2008/1,integral
+377,725080141,Lídia Lizziane Serejo De Carvalho,Vestibular,Concluido,2008/1,integral
+378,725080420,Marcelo Alexandre Calacina Guimaraes,SAES,Cancelado,2008/1,integral
+379,725080385,Mário Angel Praia Garcia,Vestibular,Concluido,2008/1,integral
+380,725080031,Nazareno De Freitas Goncalves Junior,Vestibular,Cancelado,2008/1,integral
+381,725080143,Patrese Emiron Barbosa De Souza,Vestibular,Cancelado,2008/1,integral
+382,725080117,Ricardo Monteiro E Lima,Vestibular,Cancelado,2008/1,integral
+383,725080145,Rodrigo Barros Bernardino,Vestibular,Concluido,2008/1,integral
+384,725080459,Silvia Oliveira Da Costa,SAES,Concluido,2008/1,integral
+385,725080037,Tiziana Bezerra Gerbaldo,Vestibular,Cancelado,2008/1,integral
+386,725080039,Victor Matheus De Souza Pereira,Vestibular,Concluido,2008/1,integral
+387,725080150,William Bremgartner Belleza,Vestibular,Concluido,2008/1,integral
+388,725080041,Yuri Da Costa Albuquerque,Vestibular,Cancelado,2008/1,integral
+389,625080330,Adriana Da Silva Souza,SAES,Cancelado,2007/1,integral
+390,625080003,Alexander Rivas De Melo Junior,Vestibular,Cancelado,2007/1,integral
+391,625080008,Andre Da Cruz Bispo,Vestibular,Cancelado,2007/1,integral
+392,625080203,Antônio Carlos Ayres Câmara,SAES,Concluido,2007/1,integral
+393,625080237,Bismillah C S V Mustakeem Rahim,SAES,Cancelado,2007/1,integral
+394,625080015,Bruno Mendes,Vestibular,Concluido,2007/1,integral
+395,625080183,Clarice De Souza Santos,SAES,Concluido,2007/1,integral
+396,625080172,Eden Freitas Ramos,SAES,Cancelado,2007/1,integral
+397,625080039,Emiliano Carlos De Moraes Firmino,Vestibular,Concluido,2007/1,integral
+398,625080250,Jaderson Rocha Gomes,SAES,Cancelado,2007/1,integral
+399,625080236,Jair Rebello De Souza Junior,SAES,Cancelado,2007/1,integral
+400,625080068,Jezreel Souto Barbosa,Vestibular,Ativo,2007/1,integral
+401,625080077,Jose Ribamar Marcal Martins Junior,Vestibular,Cancelado,2007/1,integral
+402,625080070,João Gonçalves Alves,Vestibular,Cancelado,2007/1,integral
+403,625080071,João Guilherme Alves Martinez,Vestibular,Concluido,2007/1,integral
+404,625080086,Lia Tarsya Alves Do Nascimento,Vestibular,Cancelado,2007/1,integral
+405,625080277,Yasmine Gabriele Da Silva Souza,SAES,Concluido,2007/1,integral
+406,685080002,Anderson Pimentel Dos Santos,Transf. Facultativa,Concluido,2006/2,integral
+407,685080001,Elison Nogueira Do Nascimento,SAES,Cancelado,2006/2,integral
+408,685080016,Johnny Alisson Alves De Paula,Vestibular,Cancelado,2006/2,integral
+409,682080021,Newython Fontes Pinto,Vestibular,Ativo,2006/2,integral
+410,362081101,Rhedson Francisco Fernandes Esashika,TransfInterna,Cancelado,2006/2,integral
+411,685080004,Thiago Stuart Da Rocha,SAES,Cancelado,2006/2,integral
+412,525080411,Anderson Barbosa Lima,SAES,Concluido,2006/1,integral
+413,525080247,Felipe Augusto Jeske,Vestibular,Cancelado,2006/1,integral
+414,525080293,George Da Rocha Medeiros Nunes,Vestibular,Concluido,2006/1,integral
+415,525080258,George Lucas Lopes Da Silva Gomes,Vestibular,Ativo,2006/1,integral
+416,525080264,Heyller Diego Pinto De Melo,Vestibular,Cancelado,2006/1,integral
+417,525080466,Hudson Luiz De Melo Silva,SAES,Ativo,2006/1,integral
+418,525080469,Igor Jacauna Martins,SAES,Cancelado,2006/1,integral
+419,525080269,Igor Trindade Oliveira,Vestibular,Concluido,2006/1,integral
+420,525080277,Joao Eduardo Carvalho Campos,Vestibular,Cancelado,2006/1,integral
+421,525080493,Lanier Menezes Dos Santos,SAES,Concluido,2006/1,integral
+422,525080499,Leo Paulo Vasconcelos Burke,SAES,Cancelado,2006/1,integral
+423,525080501,Leonardo Fontes Do Nascimento,SAES,Cancelado,2006/1,integral
+424,525080304,Marcos Antonio De Lima,Vestibular,Cancelado,2006/1,integral
+425,525080305,Mario Antonio Tayah Lima,Vestibular,Cancelado,2006/1,integral
+426,525080311,Moacir De Oliveira Miranda Junior,Vestibular,Concluido,2006/1,integral
+427,525080230,Nilton Silva Pereira,Vestibular,Cancelado,2006/1,integral
+428,525080173,Silvestre Alves Da Fonseca Junior,SAES,Cancelado,2006/1,integral
+429,525080359,Victor Kaleb Leite Gomes,Vestibular,Cancelado,2006/1,integral
+430,525080325,Victoria Carolina De Souza Mattos,Vestibular,Cancelado,2006/1,integral
+431,525080163,Hudson Jose Barroso De Araujo,SAES,Cancelado,2005/2,integral
+432,525080085,Joel Parente De Oliveira,SAES,Concluido,2005/2,integral
+433,525080096,Lucas Simao Oliveira,SAES,Cancelado,2005/2,integral
+434,525080102,Marcos Antonio De Oliveira Pena,SAES,Concluido,2005/2,integral
+435,525080118,Ramon Pereira De Souza,SAES,Cancelado,2005/2,integral
+436,525080120,Ray Hilton Souza Dos Santos,SAES,Cancelado,2005/2,integral
+437,525080130,Rosana Oliveira Da Costa,SAES,Cancelado,2005/2,integral
+438,425080014,André Luiz Viana Loureiro,Vestibular,Concluido,2004/2,integral
+439,425080016,Antonio Mayquel Araújo De Carvalho,Vestibular,Concluido,2004/2,integral
+440,425080031,Cristiane Pereira Freire,Vestibular,Concluido,2004/2,integral
+441,425080039,Edson Soares Borges,Vestibular,Concluido,2004/2,integral
+442,425080043,Emerson Alexandre Da Silva Pinto,Vestibular,Concluido,2004/2,integral
+443,425080114,Ismael Júnior Vidal Paz,Vestibular,Concluido,2004/2,integral
+444,425080075,Jean Allisson De Oliveira Nunes,Vestibular,Cancelado,2004/2,integral
+445,425080202,Jomara Mota Bindá,SAES,Concluido,2004/2,integral
+446,425080204,José Maria Drumond De Vasconcelos Dias Filho,SAES,Concluido,2004/2,integral
+447,425080285,Lia Alessandra Da Silva Martins,SAES,Concluido,2004/2,integral
+448,425080291,Maiciane Da Silva De Souza,SAES,Cancelado,2004/2,integral
+449,425080115,Pablo Nunes Vargas,Vestibular,Concluido,2004/2,integral
+450,425080124,Rainer Xavier De Amorim,Vestibular,Concluido,2004/2,integral
+451,425080128,Renato Mauro Solart Queiroz,Vestibular,Concluido,2004/2,integral
+452,425080242,Renato Philippe Lima Fernandes,SAES,Cancelado,2004/2,integral
+453,425080076,Rogério Carlucci Filho,Vestibular,Concluido,2004/2,integral
+454,325080038,André Lira Moreira,Vestibular,Concluido,2003/2,integral
+455,325080307,André Luiz Do Canto Portela,SAES,Concluido,2003/2,integral
+456,325080052,Benjamin Affonso Neto,Vestibular,Cancelado,2003/2,integral
+457,325080310,Bernardo Bentes Gatto,SAES,Concluido,2003/2,integral
+458,325080123,Henry Miller Maia Bilby,Mand. Seg. - Vest,Concluido,2003/2,integral
+459,325080169,Larissa De Souza Viana,Vestibular,Cancelado,2003/2,integral
+460,325080200,Maria Deolinda De Oliveira Santana,Vestibular,Concluido,2003/2,integral
+461,325080374,Milton Saraiva De Araujo Junior,SAES,Cancelado,2003/2,integral
+462,325080218,Ondinei Da Costa Menezes,Vestibular,Concluido,2003/2,integral
+463,325080442,Ovídio Lima Nunes Dos Santos,Outros,Cancelado,2003/2,integral
+464,325080272,Silvia Regina Assis Meireles,Vestibular,Concluido,2003/2,integral
+465,2791,Eduardo Luiz Silva Da Rocha,Transferencia,Cancelado,2003/1,integral
+466,2782,Evangelina Maria Linhares Matos Da Cunha,Transferencia,Transferido,2003/1,integral
+467,12773,Felipe Arakawa,Transferencia,Cancelado,2003/1,integral
+468,225081601,Alvaro Fagner Rodrigues Da Silva,Vestibular,Concluido,2002/2,integral
+469,225081603,Alysson Roberto Garcia Azevedo,Vestibular,Cancelado,2002/2,integral
+470,225082186,Andrei Silva De Souza,Vestibular,Concluido,2002/2,integral
+471,225081613,Anne De Souza Oliveira,Vestibular,Concluido,2002/2,integral
+472,225081615,Antonio De Padua Soares Junior,Vestibular,Concluido,2002/2,integral
+473,225081626,Benedito José De Almeida Neto,Vestibular,Concluido,2002/2,integral
+474,225082188,Bruno George De Melo Monteiro,SAES,Concluido,2002/2,integral
+475,225081634,Carla Santos Da Silva,Vestibular,Cancelado,2002/2,integral
+476,225081661,Danyson Menezes De Paula,Vestibular,Cancelado,2002/2,integral
+477,225081666,Dayane Mayely Silva De Oliveira,Vestibular,Concluido,2002/2,integral
+478,225082221,Edma Valléria Cunha Urtiga,Vestibular,Concluido,2002/2,integral
+479,225081680,Elizangela Azevedo Lima,Vestibular,Cancelado,2002/2,integral
+480,225092044,Emanuel Rufino Alcantara De Lima,SAES,Concluido,2002/2,integral
+481,225081683,Erley Soares Junior,Vestibular,Concluido,2002/2,integral
+482,225082193,Etzel Chaves Oliveira Santos,SAES,Concluido,2002/2,integral
+483,225081684,Eudimar Lima Simões,Vestibular,Cancelado,2002/2,integral
+484,225081714,Geraldo Maciel Dos Santos Neto,Vestibular,Concluido,2002/2,integral
+485,225082049,Jimmy Da Silva Padilha,SAES,Cancelado,2002/2,integral
+486,225081830,Jose Marcos Pereira Nazare,Vestibular,Cancelado,2002/2,integral
+487,225081838,Jucimar Oliveira Macedo Da Silva,Vestibular,Cancelado,2002/2,integral
+488,225082053,Katiane Gomes Cavalcante,SAES,Concluido,2002/2,integral
+489,225081859,Luís Iúri Da Silva Vieira,Vestibular,Concluido,2002/2,integral
+490,225082204,Moises Pereira Bastos,Vestibular,Concluido,2002/2,integral
+491,225081894,Nelson Barbosa Dos Reis Junior,Vestibular,Cancelado,2002/2,integral
+492,225082059,Nibia Souza Bezerra,Vestibular,Concluido,2002/2,integral
+493,225081900,Odilon Souza Dos Santos,Vestibular,Concluido,2002/2,integral
+494,225082206,Paolo Bruno Silva Ramos,Vestibular,Concluido,2002/2,integral
+495,225082088,Patricia Soares De Amorim,Vestibular,Concluido,2002/2,integral
+496,225082060,Rafael Brito Dos Santos,SAES,Concluido,2002/2,integral
+497,225081908,Rafael De Oliveira Ferreira,Vestibular,Concluido,2002/2,integral
+498,225082208,Raphael Maquiné Marinho,SAES,Concluido,2002/2,integral
+499,225081934,Romildo Pereira Epifanio Junior,Vestibular,Concluido,2002/2,integral
+500,225081947,Saulo Da Silva Maia,Vestibular,Cancelado,2002/2,integral
+501,225081963,Valéria Lobato Dos Santos,Vestibular,Concluido,2002/2,integral
+502,225081971,Walter Issamu Azevedo Nakano,Vestibular,Concluido,2002/2,integral
+503,12768,Alex Palheta Soares,Vestibular,Cancelado,2002/1,integral
+504,12765,Armindo João Da Silva,Transferencia,Cancelado,2002/1,integral
+505,992793,Cássius Coelho De Araujo,Transferencia,Cancelado,2002/1,integral
+506,2775,Danielle Albuquerque Sousa,Transferencia,Concluido,2002/1,integral
+507,2772,Douglas André Fonseca Barbosa,Transferencia,Concluido,2002/1,integral
+508,982724,Fabricio Coêlho Maciel,Reopção,Cancelado,2002/1,integral
+509,992791,Frederico Augusto Demasi De Andrade,Transferencia,Cancelado,2002/1,integral
+510,992790,Giovanni Fernandes De Fernandes,Transferencia,Cancelado,2002/1,integral
+511,12764,Jorge Alberto Lopes Da Costa,Transferencia,Cancelado,2002/1,integral
+512,22761,Luiz Americo Barbosa De Freitas,Transferencia,Cancelado,2002/1,integral
+513,12761,Maria Leneide Mendes,Transferencia,Concluido,2002/1,integral
+514,982708,Marileila Brito Moreira Trarbach,Transferencia,Cancelado,2002/1,integral
+515,992792,Moises Ricarado De Queiroz,Transferencia,Cancelado,2002/1,integral
+516,2776,Márcio Cavalcanti De Andrade Medeiros,Transferencia,Jubilado,2002/1,integral
+517,2774,Regiane Soares De Carvalho,Transferencia,Concluido,2002/1,integral
+518,225081919,Ricardo Augusto Gomes Da Costa,Vestibular,Concluido,2002/1,integral
+519,2773,Tamara Menezes Arruda,Transferencia,Concluido,2002/1,integral
+520,12701,Alessandro Moreira Boncsidai,Vestibular,Cancelado,2001/1,integral
+521,12769,Alexandre Oliveira De Souza,Reopção,Cancelado,2001/1,integral
+522,12702,Alfranjo Denes Galvão Maia,Vestibular,Cancelado,2001/1,integral
+523,12703,Alice Taeko Kimura,Vestibular,Concluido,2001/1,integral
+524,12704,Allan Sales Gomes,Vestibular,Cancelado,2001/1,integral
+525,12705,Allan Wardlley Batista Brandão,Vestibular,Concluido,2001/1,integral
+526,12706,Alysson Castro De Brito,Vestibular,Jubilado,2001/1,integral
+527,12707,Amanda Duarte D Aquino,Vestibular,Cancelado,2001/1,integral
+528,992781,Andreia Maria Castro De Couto,Transferencia,Concluido,2001/1,integral
+529,2766,Arlan Ribeiro Albano,Reopção,Cancelado,2001/1,integral
+530,12708,Brian Bremgartner Belleza,Vestibular,Cancelado,2001/1,integral
+531,12709,Bruno Guterres Aguiar F Franco,Vestibular,Cancelado,2001/1,integral
+532,12710,Caroline Perpétuo Formiga Pires,Vestibular,Jubilado,2001/1,integral
+533,2771,Charlles Macêdo De Santana,Reopção,Concluido,2001/1,integral
+534,12711,Cleberson Da Cunha Silva,Vestibular,Jubilado,2001/1,integral
+535,12712,Cris Da Silva Palmeira,Vestibular,Jubilado,2001/1,integral
+536,12713,Cristiano Mourão Da Fonseca,Vestibular,Concluido,2001/1,integral
+537,12714,Daniel Costa De Oliveira,Vestibular,Jubilado,2001/1,integral
+538,12715,Daniel Mubarac Carioca,Vestibular,Jubilado,2001/1,integral
+539,12716,Danúbia Ramos Lustosa,Vestibular,Concluido,2001/1,integral
+540,12717,Dayse Aparecida Rivera Rocha,Vestibular,Concluido,2001/1,integral
+541,12718,Demmys Theodorica Augusto Cruz,Vestibular,Cancelado,2001/1,integral
+542,12719,Eduardo Nelson Bernardino Ferreira,Vestibular,Cancelado,2001/1,integral
+543,12720,Eliane Figueiredo Collins,Vestibular,Concluido,2001/1,integral
+544,12721,Fabio De Souza Amaral,Vestibular,Concluido,2001/1,integral
+545,12722,Fabio Henrique De Araujo,Vestibular,Transferido,2001/1,integral
+546,12770,Fabio Leite Nobre,Reopção,Cancelado,2001/1,integral
+547,12723,Fabricio Souza De Oliveira,Vestibular,Jubilado,2001/1,integral
+548,12724,Felipe Marinho De O Sardinha,Vestibular,Jubilado,2001/1,integral
+549,12725,Flavio Rodrigues Barbosa,Vestibular,Concluido,2001/1,integral
+550,12726,Gilmara Da Silva Oliveira,Vestibular,Cancelado,2001/1,integral
+551,12727,Gisely Naura Venancio,Vestibular,Cancelado,2001/1,integral
+552,12728,Hugo Santana Costa,Vestibular,Cancelado,2001/1,integral
+553,12729,Humberto Rodrigues Dos Santos,Vestibular,Cancelado,2001/1,integral
+554,12730,Igor Tavares Padilha,Vestibular,Cancelado,2001/1,integral
+555,12731,Irley Pessoa De Almeida,Vestibular,Cancelado,2001/1,integral
+556,12732,Israel O De Souza Moreira,Vestibular,Jubilado,2001/1,integral
+557,12733,Itelvina Silva De Oliveira,Vestibular,Concluido,2001/1,integral
+558,12734,Jefferson Ribeiro Da Rocha,Vestibular,Cancelado,2001/1,integral
+559,12735,Jessica Maia Cordeiro,Vestibular,Cancelado,2001/1,integral
+560,12736,Joao Henrique L De A E Silva,Vestibular,Jubilado,2001/1,integral
+561,12771,Juarez Goulart De Oliveira,Reopção,Cancelado,2001/1,integral
+562,12737,Karane Mariano Vieira,Vestibular,Cancelado,2001/1,integral
+563,12738,Kassiana De Albuquerque Lima,Vestibular,Cancelado,2001/1,integral
+564,12740,Lisa De Araujo Ribeiro,Vestibular,Concluido,2001/1,integral
+565,12767,Luciele Rocha Pimentel,Reopção,Cancelado,2001/1,integral
+566,12739,Lucy Mary Feitosa Amazonas,Vestibular,Concluido,2001/1,integral
+567,12742,Luiz Gustavo Negro Vaz Junior,Vestibular,Jubilado,2001/1,integral
+568,12766,Marcelo Da Silva Saad,Reopção,Concluido,2001/1,integral
+569,12743,Marcia Da Gama Mendes,Vestibular,Cancelado,2001/1,integral
+570,12744,Marcio Kennedy De Souza Siqueira,Vestibular,Concluido,2001/1,integral
+571,2792,Miguel Leopold Toledo Magis,Reopção,Cancelado,2001/1,integral
+572,12745,Millen Da Silva Mota,Vestibular,Cancelado,2001/1,integral
+573,12741,Osvaldo Tavares Viana Junior,Vestibular,Concluido,2001/1,integral
+574,12746,Priscila Parente Santos,Vestibular,Cancelado,2001/1,integral
+575,12747,Rafael Rebelo Affonso,Vestibular,Cancelado,2001/1,integral
+576,12748,Rebeca Perez Barbosa,Vestibular,Cancelado,2001/1,integral
+577,12749,Reginaldo Sena Do Nascimento,Vestibular,Cancelado,2001/1,integral
+578,12750,Renata Da Encarnação Onety,Vestibular,Cancelado,2001/1,integral
+579,12751,Ricardo De Souza Costa,Vestibular,Concluido,2001/1,integral
+580,12772,Rodrigo De Souza Seixas,Reopção,Cancelado,2001/1,integral
+581,12753,Rodrigo De Sá Barbosa,Vestibular,Cancelado,2001/1,integral
+582,12754,Rossana Dos Santos Tavares,Vestibular,Jubilado,2001/1,integral
+583,12755,Samuel De Galiza Gomes Fragoso,Vestibular,Cancelado,2001/1,integral
+584,12756,Simone Loureiro Ohana,Vestibular,Cancelado,2001/1,integral
+585,982761,Thiago De Oliveira Batista,Transferencia,Concluido,2001/1,integral
+586,12757,Tricia Pereira De Melo,Vestibular,Cancelado,2001/1,integral
+587,12758,Tulio Yuichi Pereira Sakamoto,Vestibular,Cancelado,2001/1,integral
+588,12759,Ulisses Cesar Da Costa E Silva,Vestibular,Cancelado,2001/1,integral
+589,12760,Von Held Teixeira Grijó,Vestibular,Concluido,2001/1,integral
+590,2758,Adriana Cristina Menezes Da Cunha,Vestibular,Jubilado,2000/1,integral
+591,2711,Afranio Lima Cavalcante,Vestibular,Cancelado,2000/1,integral
+592,2749,Albert Lima De Melo,Vestibular,Jubilado,2000/1,integral
+593,982775,Alberto Vilaça Coutinho Junior,Reopção,Concluido,2000/1,integral
+594,992763,Aldely Macedo Moreira,Reopção,Cancelado,2000/1,integral
+595,2787,Alessandro De Souza Bezerra,Reopção,Concluido,2000/1,integral
+596,2703,Almir Cunha Da Graça Neto,Vestibular,Cancelado,2000/1,integral
+597,2708,Amir Da Silva Assi,Vestibular,Cancelado,2000/1,integral
+598,2704,Ana Claudia Marinho Soares,Vestibular,Cancelado,2000/1,integral
+599,2706,Ana Marcela Grana De Almeida,Vestibular,Jubilado,2000/1,integral
+600,2707,Anderson Farias Briglia,Vestibular,Jubilado,2000/1,integral
+601,992780,Arthur Yuri Florêncio Da Cunha,Transferencia,Jubilado,2000/1,integral
+602,2767,Bruna Carla Guedes Paulino,Reopção,Concluido,2000/1,integral
+603,2710,Carolina De Andrade Rsampaio,Vestibular,Jubilado,2000/1,integral
+604,2750,Claudio Cardoso Sampaio,Vestibular,Concluido,2000/1,integral
+605,2712,Daniel Botelho Campelo,Vestibular,Jubilado,2000/1,integral
+606,2714,Daniel Tadeu Martinez Castello Branco,Vestibular,Cancelado,2000/1,integral
+607,2765,Danielle Caranha Bastos,Reopção,Cancelado,2000/1,integral
+608,2751,David Barroso De Souza,Vestibular,Cancelado,2000/1,integral
+609,2702,Eliza Maria Santoro Franco Azevedo,Vestibular,Concluido,2000/1,integral
+610,2768,Emanuel Dantas Taveira,Reopção,Cancelado,2000/1,integral
+611,2780,Emerson Eduardo Gomes Ramos,Reopção,Concluido,2000/1,integral
+612,982788,Eryka Coêlho Araújo,Transferencia,Concluido,2000/1,integral
+613,982786,Ewerton Almeida Ferreira,Reopção,Jubilado,2000/1,integral
+614,2724,Fabiano Marrocos De Oliveira,Vestibular,Jubilado,2000/1,integral
+615,2717,Fabricio Izumi Bandeira,Vestibular,Concluido,2000/1,integral
+616,2716,Fagner Geraldo Silva Lobo,Vestibular,Concluido,2000/1,integral
+617,992769,Fikriye Viga Yurtsever,Reopção,Cancelado,2000/1,integral
+618,2788,Flávio Antônio Belo Isacksson,Reopção,Cancelado,2000/1,integral
+619,2769,Francisco De Assis Vasconcelos Da Silva,Reopção,Jubilado,2000/1,integral
+620,992765,Gisleina Melo De Oliveira,Reopção,Cancelado,2000/1,integral
+621,2718,Glauber Felipe Santos E Santos,Vestibular,Cancelado,2000/1,integral
+622,2719,Henrique Martins De Aguiar Silveira,Vestibular,Cancelado,2000/1,integral
+623,2731,Hélder De Oliveira Pinto,Vestibular,Concluido,2000/1,integral
+624,2720,Izabela Castro Lopes,Vestibular,Concluido,2000/1,integral
+625,2762,Joelma Ambrosio Neto,Vestibular,Concluido,2000/1,integral
+626,2721,Jones Wendell L De A Monte,Vestibular,Jubilado,2000/1,integral
+627,2722,Jorge Elias Dos Santos Filho,Vestibular,Jubilado,2000/1,integral
+628,2723,Jose Augusto De Melo Neto,Vestibular,Concluido,2000/1,integral
+629,2728,Jose Raimundo Freitas Pimentel,Vestibular,Jubilado,2000/1,integral
+630,2709,João Da Silva Paulo,Vestibular,Concluido,2000/1,integral
+631,2770,Júlio César Santa Cruz Hauradou,Vestibular,Concluido,2000/1,integral
+632,2779,Karie Keuma Batista Da Silva,Reopção,Concluido,2000/1,integral
+633,2725,Larissa Fauber Lima Amancio,Vestibular,Cancelado,2000/1,integral
+634,2764,Lauren Mellissa Farias Godinho,Reopção,Cancelado,2000/1,integral
+635,2726,Leandro Augusto Oliveira Leao,Vestibular,Jubilado,2000/1,integral
+636,2727,Leomar Inez Lahan F Belem,Vestibular,Concluido,2000/1,integral
+637,2735,Luciana Mota Da Silva,Vestibular,Jubilado,2000/1,integral
+638,992768,Luciana Sena De Carvalho,Reopção,Concluido,2000/1,integral
+639,982780,Lucélia Mota Pereira,Reopção,Concluido,2000/1,integral
+640,2781,Luiz Americo Barbosa De Freitas,Transferencia,Concluido,2000/1,integral
+641,2748,Lívia Gisela Nascimento Da Cunha,Vestibular,Concluido,2000/1,integral
+642,2713,Maisa De Souza Affomso Moreira,Vestibular,Jubilado,2000/1,integral
+643,2785,Marcelo Albuquerque Dos Santos,Reopção,Concluido,2000/1,integral
+644,982779,Marcelo Dos Santos Miranda,Reopção,Jubilado,2000/1,integral
+645,2777,Marcelo Garcia Dos Santos,Reopção,Cancelado,2000/1,integral
+646,982787,Marcelo Saraiva Guerreiro,Reopção,Ativo,2000/1,integral
+647,2715,Marcia Cristina Grana De Almeida,Vestibular,Cancelado,2000/1,integral
+648,2757,Marcio Andre De Souza Chaar,Vestibular,Cancelado,2000/1,integral
+649,2729,Marcio Mavignier Jung,Vestibular,Jubilado,2000/1,integral
+650,2730,Marco Antonio Fernandes,Vestibular,Concluido,2000/1,integral
+651,2732,Marcos Duarte Siosaki,Vestibular,Jubilado,2000/1,integral
+652,982783,Marcos Robério Felipe Pinto,Reopção,Cancelado,2000/1,integral
+653,992767,Mariza De Assis Nunes,Reopção,Cancelado,2000/1,integral
+654,2733,Marla Lorena Moraes Lima,Vestibular,Cancelado,2000/1,integral
+655,982785,Michelen Farias De Freitas,Reopção,Jubilado,2000/1,integral
+656,2734,Michelle Lima Da Silva,Vestibular,Cancelado,2000/1,integral
+657,2736,Murilo Fernandes Dos Santos,Vestibular,Jubilado,2000/1,integral
+658,2737,Nastassja Ribeiro Oliveira,Vestibular,Jubilado,2000/1,integral
+659,2738,Nayra Natascha Guedes Maciel,Vestibular,Jubilado,2000/1,integral
+660,2778,Necy Da Silva Pimenta,Reopção,Cancelado,2000/1,integral
+661,982778,Neybi Anne Pereira Alves,Reopção,Cancelado,2000/1,integral
+662,2739,Nice Gardenia Travessa Barbosa,Vestibular,Cancelado,2000/1,integral
+663,2740,Nidall De Souza Raad,Vestibular,Jubilado,2000/1,integral
+664,2741,Nilson Da Silva Pereira,Vestibular,Cancelado,2000/1,integral
+665,2742,Patricia Andrade De Abreu,Vestibular,Jubilado,2000/1,integral
+666,2743,Rafael Albuquerque Gomes De Oliveira,Vestibular,Jubilado,2000/1,integral
+667,2744,Rafael Ferreira Barcelos,Vestibular,Jubilado,2000/1,integral
+668,2745,Rafael Normando Cunha,Vestibular,Jubilado,2000/1,integral
+669,2746,Renato Borges De Souza,Vestibular,Jubilado,2000/1,integral
+670,2789,Rene Manuel Mattos Hidalgo,Reopção,Cancelado,2000/1,integral
+671,12752,Ricardo Grana De Lima,Vestibular,Concluido,2000/1,integral
+672,2701,Ricardo Tsuyoshi Sassaki,Vestibular,Cancelado,2000/1,integral
+673,2747,Rodrigo Araujo Dos Santos,Vestibular,Jubilado,2000/1,integral
+674,2763,Sandro Wellington Costa Pessoa,Reopção,Cancelado,2000/1,integral
+675,2790,Simone Tavares Da Silva,Reopção,Cancelado,2000/1,integral
+676,992771,Suanã Monteiro Bezerra,Transferencia,Concluido,2000/1,integral
+677,2759,Tatiana Rubim Ferreira,Vestibular,Concluido,2000/1,integral
+678,2752,Thiago Azevedo Falcao,Vestibular,Concluido,2000/1,integral
+679,2753,Thiago Barbosa Tomaz,Vestibular,Cancelado,2000/1,integral
+680,2754,Thiago F De Magalhaes Franco,Vestibular,Jubilado,2000/1,integral
+681,2755,Thiago Francisco Gibran Campos,Vestibular,Concluido,2000/1,integral
+682,2756,Thiago Leite Nattrodt,Vestibular,Concluido,2000/1,integral
+683,2760,Wallberth Almeida Da Costa,Vestibular,Jubilado,2000/1,integral
+684,2705,Wellington Ramos Chevreuil,Vestibular,Concluido,2000/1,integral
+685,992701,Adriana M Cavalcante Pinheiro,Vestibular,Jubilado,1999/1,integral
+686,992702,Afranio Roberto Pinto A Seixas (Ganso),Vestibular,Jubilado,1999/1,integral
+687,992797,Anderson Ferreira De Souza,Reopção,Cancelado,1999/1,integral
+688,992757,Andre Marques Martins,Vestibular,Jubilado,1999/1,integral
+689,992770,André De Oliveira Maciel,Reopção,Concluido,1999/1,integral
+690,992734,Arely Freitas Rufino,Vestibular,Cancelado,1999/1,integral
+691,992703,Aristarco De Araujo Jorge Mello Filho,Vestibular,Cancelado,1999/1,integral
+692,992704,Armando Gurgel Maia,Vestibular,Jubilado,1999/1,integral
+693,992736,Breno Andrade Tucci,Vestibular,Concluido,1999/1,integral
+694,992739,Bruno Emiliano Mourao,Vestibular,Jubilado,1999/1,integral
+695,992705,Bruno Freitas Gadelha,Vestibular,Jubilado,1999/1,integral
+696,992706,Bruno Pinheiro Cantanhede,Vestibular,Jubilado,1999/1,integral
+697,992785,Carlos Cleude Barbosa De Abreu,Reopção,Concluido,1999/1,integral
+698,992707,Cristiano Francis Macedo Macedo,Vestibular,Concluido,1999/1,integral
+699,992708,Daniel Monteiro Medeiros,Vestibular,Jubilado,1999/1,integral
+700,992709,Daniel Pereira De Oliveira,Vestibular,Jubilado,1999/1,integral
+701,992710,Daniel Rebelo Affonso,Vestibular,Cancelado,1999/1,integral
+702,992711,Daniel Reis Wanderley,Vestibular,Jubilado,1999/1,integral
+703,992712,Daniel Rodrigues Da Cruz,Vestibular,Jubilado,1999/1,integral
+704,992713,Daniela Novaes Paes Barreto,Vestibular,Cancelado,1999/1,integral
+705,992715,David Castro Saback,Vestibular,Jubilado,1999/1,integral
+706,992716,Diego Hidalgo Chicre Gonzalez,Vestibular,Jubilado,1999/1,integral
+707,992718,Eduardo Tavora De Albuquerque Taveira,Vestibular,Concluido,1999/1,integral
+708,992775,Elisangela Dos Santos Aguiar,Reopção,Concluido,1999/1,integral
+709,992761,Eliude Gomes Ferreira,Vestibular,Jubilado,1999/1,integral
+710,992772,Fabio Belchior Dos Santos,Reopção,Cancelado,1999/1,integral
+711,992719,Fabio Galucio Dias Costa,Vestibular,Jubilado,1999/1,integral
+712,992720,Fabio Prestes De Oliveira,Vestibular,Jubilado,1999/1,integral
+713,992725,Fernando Bivaqua De A Filho,Vestibular,Jubilado,1999/1,integral
+714,992721,Fraima Barreto Sales,Vestibular,Jubilado,1999/1,integral
+715,992799,Frederico Leandro Carvalho Leite,Vestibular,Concluido,1999/1,integral
+716,992723,Gerdinilson Campos De Souza,Vestibular,Jubilado,1999/1,integral
+717,992724,Germanna Andrade Ferreira Lima,Vestibular,Cancelado,1999/1,integral
+718,992726,Ileida Pereira Gomes,Vestibular,Jubilado,1999/1,integral
+719,992728,Isolda Souza Pereira,Vestibular,Jubilado,1999/1,integral
+720,992729,Ivan Ferreira Valente Neto,Vestibular,Jubilado,1999/1,integral
+721,992764,Janderson De Melo Antunes,Reopção,Concluido,1999/1,integral
+722,2783,Jean Charles Caimo,Reopção,Cancelado,1999/1,integral
+723,992730,Joao Mario De F Braga Junior,Vestibular,Jubilado,1999/1,integral
+724,992731,Jorsinei Dourado Do Nascimento,Vestibular,Jubilado,1999/1,integral
+725,992762,José Carlos Barreto De Rezende,Transferencia,Concluido,1999/1,integral
+726,992784,João Lúcio Rolim De Moraes,Reopção,Concluido,1999/1,integral
+727,992732,Jussara Filardi Da Silva,Vestibular,Cancelado,1999/1,integral
+728,992733,Kelly Ann R F Jobim,Vestibular,Jubilado,1999/1,integral
+729,992714,Krysthe Ann Rayol Frederico Jobim,Vestibular,Cancelado,1999/1,integral
+730,992735,Lidiane Da Silva Roque,Vestibular,Jubilado,1999/1,integral
+731,992798,Lilian Cristina M C Do Vale,Reopção,Cancelado,1999/1,integral
+732,992776,Lucélia Cunha Da Rocha Santos,Reopção,Concluido,1999/1,integral
+733,992737,Maiko Ramos Maia,Vestibular,Cancelado,1999/1,integral
+734,992777,Marcelo Barbosa Correa,Reopção,Cancelado,1999/1,integral
+735,992738,Marcia Da Silva Sampaio,Vestibular,Jubilado,1999/1,integral
+736,2794,Marcos De Oliveira Rodrigues,Reopção,Concluido,1999/1,integral
+737,992740,Marcos Jose S De Oliveira,Vestibular,Jubilado,1999/1,integral
+738,992773,Marja Tayana Farias Campos,Reopção,Cancelado,1999/1,integral
+739,992751,Mauricio Bittencourt Portes,Vestibular,Cancelado,1999/1,integral
+740,992722,Monica Simãoo Cabral,Vestibular,Jubilado,1999/1,integral
+741,992743,Moyses Alencar De Carvalho,Vestibular,Jubilado,1999/1,integral
+742,992774,Márcio Leandro Figueiredo Lucena,Vestibular,Cancelado,1999/1,integral
+743,992744,Nelson Grana De Lima,Vestibular,Concluido,1999/1,integral
+744,992779,Nubia Rodrigues Da Costa,Reopção,Concluido,1999/1,integral
+745,992745,Patricia Silva Peres,Vestibular,Cancelado,1999/1,integral
+746,992794,Patrícia De Vasconcelos Félix,Reopção,Concluido,1999/1,integral
+747,992742,Paula Patrícia Mendes,Vestibular,Cancelado,1999/1,integral
+748,992741,Rafael Camargo Dos Reis,Vestibular,Cancelado,1999/1,integral
+749,992746,Rafael Cherem Bivar,Vestibular,Cancelado,1999/1,integral
+750,992747,Rafael Jacob Freire Da Paz,Vestibular,Jubilado,1999/1,integral
+751,992748,Raimundo Anastacio C Dutra Filho,Vestibular,Cancelado,1999/1,integral
+752,992766,Raphael Augusto Pinto De Mattos,Vestibular,Concluido,1999/1,integral
+753,992778,Regina Cristina Lima Da Silva,Reopção,Concluido,1999/1,integral
+754,992749,Renata Da Encarnação Onety,Vestibular,Concluido,1999/1,integral
+755,992750,Ricardo Flavio Costa Da Silva,Vestibular,Jubilado,1999/1,integral
+756,992752,Robermilton S De Oliveira Rodrigues,Vestibular,Concluido,1999/1,integral
+757,992753,Roberto Amorim Dos Santos,Vestibular,Concluido,1999/1,integral
+758,992754,Roberto Tanabe,Vestibular,Concluido,1999/1,integral
+759,992755,Rofran Belchior Da Silva,Vestibular,Jubilado,1999/1,integral
+760,992756,Romulo Rogerio Cyrino Barbosa,Vestibular,Jubilado,1999/1,integral
+761,992786,Ronaldo Da Silva Fernandes,Reopção,Cancelado,1999/1,integral
+762,992727,Silvio Conceição Amorim Da Silva,Vestibular,Cancelado,1999/1,integral
+763,2786,Sofia Caroline De Castro Souza,Reopção,Cancelado,1999/1,integral
+764,992758,Thiago Ivan Freire Meneghini,Vestibular,Jubilado,1999/1,integral
+765,992759,Valmir Costa Da Silva Filho,Vestibular,Jubilado,1999/1,integral
+766,992760,Vivian Maria Oliveira Da Frota,Vestibular,Jubilado,1999/1,integral
+767,992717,Willisson Gurgel Paiva De Souza,Vestibular,Jubilado,1999/1,integral
+768,982726,Aidson Ponciano Dias Junior,Vestibular,Concluido,1998/1,integral
+769,982703,Alex Reis Ribeiro,Vestibular,Concluido,1998/1,integral
+770,982704,Alyson De Jesus Dos Santos,Vestibular,Concluido,1998/1,integral
+771,982707,Alysson Simões Souza,Reopção,Cancelado,1998/1,integral
+772,982770,Angela Cristina Lanza Da Silva,Vestibular,Cancelado,1998/1,integral
+773,982769,Antonio Alberto Grandal Coelho,Reopção,Cancelado,1998/1,integral
+774,982706,Antão Fagundes D Neto,Vestibular,Concluido,1998/1,integral
+775,982719,Carlos Antônio Tabosa,Transferencia,Concluido,1998/1,integral
+776,982709,Carlos Augusto De Araujo Mar,Vestibular,Jubilado,1998/1,integral
+777,982710,Claudeci Reis Santos,Vestibular,Jubilado,1998/1,integral
+778,982711,Cleverson Redivo,Vestibular,Jubilado,1998/1,integral
+779,982792,Cremilda Ferreira Silvino,Reopção,Concluido,1998/1,integral
+780,982712,Daniel José De L Oliveira,Vestibular,Jubilado,1998/1,integral
+781,982713,Daniel Nascimento Gama,Vestibular,Cancelado,1998/1,integral
+782,982714,Daniel Reis Armond De Melo,Vestibular,Jubilado,1998/1,integral
+783,982791,Dermilson De Sá Oliveira,Reopção,Cancelado,1998/1,integral
+784,982773,Dilcinete Castro Pereira,Reopção,Jubilado,1998/1,integral
+785,982736,Dércio Luiz Reis,Vestibular,Jubilado,1998/1,integral
+786,982716,Elisangela Travassos Da Silva,Vestibular,Concluido,1998/1,integral
+787,982753,Ellen Cristina Alves Gonçalves Buzaglo,Transferencia,Cancelado,1998/1,integral
+788,982776,Elson Pessoa Vasques,Reopção,Concluido,1998/1,integral
+789,982782,Fernando Santoro,Vestibular,Concluido,1998/1,integral
+790,982789,Francisco De Assis Marinho Aguiar,Reopção,Transferido,1998/1,integral
+791,982705,Gerson Reis Da Costa,Reopção,Concluido,1998/1,integral
+792,982762,Heber Almeida Soares Junior,Vestibular,Cancelado,1998/1,integral
+793,982702,Ilmar Corrêa Teixeira,Reopção,Concluido,1998/1,integral
+794,982722,Jean Caminha,Vestibular,Concluido,1998/1,integral
+795,982777,Jeferson Augusto Matos De Macedo,Vestibular,Concluido,1998/1,integral
+796,982701,Jonas Cavalcante Gomes,Reopção,Concluido,1998/1,integral
+797,982715,João Batista Tolentino,Outros,Cancelado,1998/1,integral
+798,982725,Karine Amaral Nestor,Vestibular,Jubilado,1998/1,integral
+799,982718,Keila Simone Silva De Lima,Vestibular,Cancelado,1998/1,integral
+800,982728,Leonardo Prado Da Silva,Vestibular,Jubilado,1998/1,integral
+801,982729,Leonardo Rodrigo Freitas Fierro,Portador de Diploma,Cancelado,1998/1,integral
+802,982717,Lessandro Rodrigues De Alencar,Transferencia,Jubilado,1998/1,integral
+803,982730,Lindomar Costa Dos Santos,Portador de Diploma,Concluido,1998/1,integral
+804,982790,Luciana Lima Moreno,Reopção,Cancelado,1998/1,integral
+805,982731,Luciano Da Costa Pinto,Vestibular,Cancelado,1998/1,integral
+806,982732,Marcelo Asahiti Uratani,Vestibular,Jubilado,1998/1,integral
+807,982764,Marcelo Haas Villas Boas,Portador de Diploma,Jubilado,1998/1,integral
+808,992782,Marcelo Santos Da Silva,Reopção,Cancelado,1998/1,integral
+809,982733,Marcelo Ventura Barreto,Vestibular,Jubilado,1998/1,integral
+810,982771,Marcia Bastos Nina,Reopção,Concluido,1998/1,integral
+811,982734,Marcia Cristina De L Oliveira,Vestibular,Jubilado,1998/1,integral
+812,982735,Marcia Lidianne V D Souza,Vestibular,Jubilado,1998/1,integral
+813,982737,Marco Aurelio Da R Pereira Junior,Vestibular,Concluido,1998/1,integral
+814,982757,Marcos De Oliveira Valença Sobrinho,Vestibular,Jubilado,1998/1,integral
+815,982738,Marcos Kawamoto,Vestibular,Concluido,1998/1,integral
+816,982739,Marcus Vinicius A Reis,Vestibular,Jubilado,1998/1,integral
+817,982772,Maria Emilia Cavalcante Maia Dias,Reopção,Concluido,1998/1,integral
+818,982741,Mario Augusto Takumi Sato,Vestibular,Concluido,1998/1,integral
+819,982740,Maximo Eugenio Barreiro,Vestibular,Concluido,1998/1,integral
+820,982723,Maysa Alves Da Conceição Silva,Transferencia,Concluido,1998/1,integral
+821,982763,Mecielison Bastos De Araujo,Transferencia,Cancelado,1998/1,integral
+822,982743,Michele Noemia Mendes Monteiro,Vestibular,Cancelado,1998/1,integral
+823,982781,Márcia Regina Castro Albuquerque,Reopção,Concluido,1998/1,integral
+824,982744,Nancy Farias Almeida F Gões,Vestibular,Jubilado,1998/1,integral
+825,982765,Neila Batista Xavier,Vestibular,Cancelado,1998/1,integral
+826,982745,Paula Shizuene Sato Lopes,Vestibular,Jubilado,1998/1,integral
+827,982766,Paulo Nunes Kanawati Segundo,Transferencia,Cancelado,1998/1,integral
+828,982727,Paulo Sergio Santos Do Nascimento,Portador de Diploma,Cancelado,1998/1,integral
+829,982774,Railton Araujo De Oliveira,Reopção,Concluido,1998/1,integral
+830,982747,Rebeca De Azevedo Correa,Vestibular,Cancelado,1998/1,integral
+831,982767,Reginaldo De Oliveira Peres,Vestibular,Cancelado,1998/1,integral
+832,982749,Ricardo Estefany A Souza,Vestibular,Jubilado,1998/1,integral
+833,982750,Roberto Da Costa Rocha,Vestibular,Concluido,1998/1,integral
+834,982748,Rock Hudson De Albuquerque Barbosa,Portador de Diploma,Cancelado,1998/1,integral
+835,982751,Rodrigo Choji De Freitas,Vestibular,Concluido,1998/1,integral
+836,982752,Rogério Luiz Araújo Carmine,Vestibular,Jubilado,1998/1,integral
+837,992788,Roseane Nogueira Da Conceição,Reopção,Cancelado,1998/1,integral
+838,982742,Saulo Coelho Lima,Vestibular,Concluido,1998/1,integral
+839,982754,Segino Brissley Cortêz De Medeiros,Vestibular,Jubilado,1998/1,integral
+840,982755,Sérgio Augusto Soares Dos Santos,Vestibular,Jubilado,1998/1,integral
+841,982768,Tarcisio Cavalcante Layme,Transferencia,Concluido,1998/1,integral
+842,982756,Tobias Da Silva Chaves,Vestibular,Cancelado,1998/1,integral
+843,992789,Valmor Jorge Dibo Da Silva,Reopção,Cancelado,1998/1,integral
+844,982758,Vanderlan Pires Da Silva,Vestibular,Jubilado,1998/1,integral
+845,982720,Vera Lucia Comapa Arruda Da Silva,Transferencia,Cancelado,1998/1,integral
+846,982721,Vitalina Leal Da Costa,Transferencia,Concluido,1998/1,integral
+847,982759,Viviane Passos Gomes,Portador de Diploma,Jubilado,1998/1,integral
+848,982746,Wilson Castro Silva,Portador de Diploma,Jubilado,1998/1,integral
+849,982760,Zandor Marques Chagas,Vestibular,Cancelado,1998/1,integral
+850,982794,Alexandre Perdigão De Almeida,Reopção,Cancelado,1997/1,integral
+851,992787,Daniel Francisco Palheta Gonzalez,Reopção,Concluido,1997/1,integral
+852,2793,Francisco Hélio Almeida Benjamin,Reopção,Cancelado,1997/1,integral
+853,982793,Julio Cesar Carvalho Velloso,Reopção,Jubilado,1997/1,integral
+854,992795,Tatiana Silva De Farias,Reopção,Cancelado,1997/1,integral
+855,982797,José Lucio Flávio De Souza,Reopção,Transferido,1995/1,integral
+856,982795,Kátia Maria Monteiro Lacerda,Reopção,Cancelado,1995/1,integral
+857,992796,Ronaldo Nunes Pereira,Reopção,Concluido,1994/1,integral
+858,982798,Kleber Da Silva Lyra,Reopção,Concluido,1993/1,integral
+859,982799,Vandete Soares Dos Santos,Reopção,Concluido,1992/1,integral
+860,992783,Sandro Santos De Carvalho,Reopção,Cancelado,1989/1,integral
+861,982796,Dioneide Leal Sales,Reopção,Concluido,1988/1,integral
