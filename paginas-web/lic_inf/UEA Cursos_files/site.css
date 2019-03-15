@@ -1,0 +1,61 @@
+body {
+    margin-top: 65px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#loadingIndicator
+{
+    position:fixed;
+    top:50%; 
+    right:50%;
+
+    display: none;
+    z-index: 10000
+}
+
+#loadingIndicator i {
+    color: #5cb85c;
+}
+
+ #nav-brand {
+    color: #398439
+}
+
+#nav-brand, #navbar-menu-left a, .dropdown-toggle, .col-xs-12 .disabled, .panel-title, .navbar-nav a, .tab-content h5 {
+    font-weight: 700;
+}
+
+.col-xs-12 .disabled {
+    cursor: default; color: #0066ff
+}
+
+.panel-title {
+    color: #eea236
+}
+
+.panel-title a {
+    display: block;
+    padding: 10px 15px;
+    margin: -10px -15px;
+}
+
+.panel-title a:hover, .panel-title a:visited, .panel-title a:link, .panel-title a:active {
+    text-decoration: none
+}
+
+.list-group {
+    margin-bottom: 15px
+}
+
+.panel-collapse .panel-body {
+    padding-bottom: 0
+}
+
+.tab-content {
+    padding: 15px;
+}
+
+.tab-content h5 {
+    margin-bottom: 5px;
+    margin-top: 20px;
+}

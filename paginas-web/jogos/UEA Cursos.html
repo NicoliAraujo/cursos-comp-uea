@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <meta charset="ISO-8859-1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>UEA Cursos</title>
+
+    <link rel="stylesheet" href="UEA%20Cursos_files/bootstrap.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="UEA%20Cursos_files/font-awesome.css">
+
+    <link href="UEA%20Cursos_files/css.css" rel="stylesheet" type="text/css">
+    <link href="UEA%20Cursos_files/css_002.css" rel="stylesheet" type="text/css">
+    
+    <link rel="stylesheet" href="UEA%20Cursos_files/site.css">
+
+</head>
+
+<body>
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a id="nav-brand" class="navbar-brand" href="http://cursos1.uea.edu.br/">UEA CURSOS</a>
+            </div>
+
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+					<li><a href="http://cursos1.uea.edu.br/index.php?mode=nivel">Nível</a></li>
+					<li><a href="http://cursos1.uea.edu.br/index.php?mode=modalidade">Modalidade</a></li>
+					<li><a href="http://cursos1.uea.edu.br/index.php?mode=municipio">Município</a></li>
+					<li><a href="http://cursos1.uea.edu.br/index.php?mode=unidade">Unidade</a></li>
+
+                </ul>
+                <form id="searchForm" method="post" action="http://cursos1.uea.edu.br/index.php?dest=busca" class="navbar-form navbar-left hidden-xs hidden-md hidden-sm"> 
+                    <div class="form-group"> 
+                        <input type="text" name="q" class="form-control typeahead" data-toggle="popover" data-content="Você deve preencher o campo da busca com no mínimo 3 caracteres." data-placement="bottom" placeholder="Busca Rápida">
+                    </div> 
+                    <button id="btn-search" type="button" class="btn btn-default"><i class="fa fa-search" aria-hidden="true"></i></button> 
+                </form> 
+
+                <form class="navbar-form navbar-right"> 
+                    <div class="form-group">
+                        <select class="form-control" name="vwStatus" id="vwStatus">
+<option value="AT" selected="selected">Cursos Ativos</option><option value="EE">Cursos em Extinção</option><option value="EX">Cursos Extintos</option>
+                        </select>
+                    </div>
+                </form> 
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            
+            <div class="row">
+                <div class="col-xs-12 col-md-9">
+                    <h3 style="font-size: 20px;" class="panel-title">Jogos Digitais<br><small>GRADUAÇÃO - TECNOLÓGICO</small></h3>
+                </div>
+                <div class="col-xs-12 col-md-3">
+                    <select style="margin-top: 4px" class="form-control" name="vwMunicipio" id="vwMunicipio">
+<option value="1" selected="selected">Manaus</option>
+                    </select>
+                </div>
+            </div>
+
+        </div>
+        <div class="panel-body">
+
+            <ul class="nav nav-tabs nav-justified"> 
+				<li role="presentation"><a href="http://cursos1.uea.edu.br/index.php?dest=view&amp;mode=apresentacao">Apresentação</a></li>
+				<li role="presentation"><a href="http://cursos1.uea.edu.br/index.php?dest=view&amp;mode=curriculo">Curriculos</a></li>
+				<li role="presentation"><a href="http://cursos1.uea.edu.br/index.php?dest=view&amp;mode=docentes">Docentes</a></li>
+				<li role="presentation" class="active"><a href="#">Discentes</a></li>
+				<li role="presentation"><a href="http://cursos1.uea.edu.br/index.php?dest=view&amp;mode=coordenacao">Coordenação</a></li>
+				<li role="presentation"><a href="http://cursos1.uea.edu.br/index.php?dest=view&amp;mode=secretaria">Secretaria</a></li>
+				<li role="presentation"><a href="http://cursos1.uea.edu.br/calendar.php?mode=calendario">Calendário</a></li>
+
+            </ul>
+
+            <div class="tab-content">
+
+                <div class="panel-group" role="tablist" id="accordion" aria-multiselectable="true"> 
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="head1">
+							<h4 class="panel-title">
+								<a href="#collapse1" role="button" data-toggle="collapse" data-parent="#accordion" aria-controls="collapse1" aria-expanded="true" class="">Ingresso: INTEGRAL - 2015/1</a>
+							</h4>
+						</div>
+						<div class="panel-collapse collapse in" role="tabpanel" id="collapse1" aria-labelledby="head1" aria-expanded="true" style=""> 
+							<div class="panel-body">
+
+								<table class="table table-bordered">
+								<thead>
+									<tr>
+										<th>Matrícula</th>
+										<th>Nome</th>
+										<th>Forma de Ingresso</th>
+										<th>Situação</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>1515320001</td>
+										<td>Alberto Correia Lima Neto
+										</td><td>Vestibular</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320011</td>
+										<td>Alvaro De Sousa Oliveira
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320508</td>
+										<td>Cael Fernando Saraiva Pinheiro
+										</td><td>SIS</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320501</td>
+										<td>Douglas Mateus Quirino Dos Santos
+										</td><td>SIS</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320008</td>
+										<td>Ebony Brandao Pereira
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320003</td>
+										<td>Eduardo Da Costa Soares
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320502</td>
+										<td>Eduardo Tadeu Pereira Iglesias
+										</td><td>SIS</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320503</td>
+										<td>Emiliandro Carlos De Moraes Firmino
+										</td><td>SIS</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320504</td>
+										<td>Gabriel Alonso Marques Padinha
+										</td><td>SIS</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320005</td>
+										<td>Gabriel Silva Brasil
+										</td><td>Vestibular</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320505</td>
+										<td>Heloisa Dos Santos Batista
+										</td><td>SIS</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320004</td>
+										<td>Jameson Pagini Da Costa
+										</td><td>Vestibular</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320009</td>
+										<td>Jorge Luiz Soares Costa
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320006</td>
+										<td>Kethelen Castilho Correa
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320506</td>
+										<td>Lucas Emanuel Gomes Da Silva
+										</td><td>SIS</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320012</td>
+										<td>Marco Henrique Dos Santos Silva
+										</td><td>Vestibular</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320507</td>
+										<td>Marcos Dacio De Araujo
+										</td><td>SIS</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320013</td>
+										<td>Maria Alice Gadelha Prazeres
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320509</td>
+										<td>Marlo Derik Medeiros Santos
+										</td><td>SIS</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320510</td>
+										<td>Mateus Vieira Benfica Alves
+										</td><td>SIS</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320014</td>
+										<td>Matheus Adrik Sousa Santos
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320016</td>
+										<td>Nilson Andrade Dos Santos Junior
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320018</td>
+										<td>Pedro Rogel Franca Miranda
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320513</td>
+										<td>Pedro Victor Da Silva Ferreira
+										</td><td>SIS</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320511</td>
+										<td>Rodolfo Piszter De Paula
+										</td><td>SIS</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320516</td>
+										<td>Ronaldo Luis Gloria Araujo
+										</td><td>SIS</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320007</td>
+										<td>Saulo Fernandes Guimaraes
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320020</td>
+										<td>Silvio Lasmar Dos Santos
+										</td><td>Vestibular</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320010</td>
+										<td>Taina Lima Da Silva
+										</td><td>Vestibular</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320515</td>
+										<td>Thiago Santos Figueira
+										</td><td>SIS</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320022</td>
+										<td>Victor Meireles Roque
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320023</td>
+										<td>Vinicius Cerqueira Silva
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+									<tr>
+										<td>1515320024</td>
+										<td>Virginia Oliveira Do Nascimento
+										</td><td>Vestibular</td>
+										<td>Concluido</td>
+									</tr>
+									<tr>
+										<td>1515320025</td>
+										<td>Yasmin Thamires Felix Tavares
+										</td><td>Vestibular</td>
+										<td>Cancelado</td>
+									</tr>
+								</tbody>
+								</table>
+
+							</div>
+						</div>
+					</div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+        <div id="loadingIndicator"><i class="fa fa-refresh fa-spin fa-5x"></i></div>
+
+    </div>
+
+    <script src="UEA%20Cursos_files/jquery.js"></script>
+
+    <script src="UEA%20Cursos_files/bootstrap_002.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <script src="UEA%20Cursos_files/bootbox.js"></script>
+
+    <script src="UEA%20Cursos_files/formValidation.js"></script>
+    <script src="UEA%20Cursos_files/bootstrap.js"></script>
+    <script src="UEA%20Cursos_files/pt_BR.js"></script>
+
+    <script src="UEA%20Cursos_files/pnotify.js"></script>
+    
+    <script src="UEA%20Cursos_files/jquery_002.js"></script>
+
+    <script src="UEA%20Cursos_files/functions.js"></script>
+    
+    <script src="UEA%20Cursos_files/init.js"></script>
+    
+    <script>
+
+        $(document).ready(function( ) {
+
+            //
+            // Modificando a visão de acesso (tipo de curso).
+            //
+            $('#vwStatus').change(function (e) {
+                e.preventDefault();
+
+                PNotify.removeAll();
+
+                $.ajax({
+                    url : '?dest=changeView',
+                    data: { 'status': $(this).val() }
+                })
+                .success(function(response) {
+                    if (response.result === 'ok') {
+                        window.open(response.url, '_self');
+                    }
+                });
+            });
+            
+            
+            //
+            // Modificando a visão de acesso (municipio).
+            //
+            $('#vwMunicipio').change(function (e) {
+                e.preventDefault();
+
+                PNotify.removeAll();
+
+                $.ajax({
+                    url : '?dest=changeCity',
+                    data: { 'municipio': $(this).val() }
+                })
+                .success(function(response) {
+                    if (response.result === 'ok') {
+                        window.open(response.url, '_self');
+                    }
+                });
+            });
+
+
+            /**
+             * Busca de cursos.
+             */
+            $('#searchForm').find('[name="q"]').on( 'focus', function(e) { // No foco removendo o popover.
+                e.preventDefault();
+
+                $(this).popover('destroy');
+            }).end()
+            .find('[name="q"]').on('keypress', function(e) { // Clique no Enter executa a busca.
+                if (e.which == 13) {
+                    e.preventDefault();
+
+                    if ($(this).val().length < 3 ) {
+                        $(this).popover('show');
+                    }
+                    else {
+                        $('#searchForm').submit();
+                    }
+                }
+            }).end()
+            .find('#btn-search').on('click', function(e) { // Clique no submit da busca executa a mesma.
+                e.preventDefault();
+
+                var $query = $('#searchForm').find('[name="q"]');
+
+                if ($query.val().length < 3) {
+                    $('[name="q"]').popover('show');
+                }
+                else {
+                    $('#searchForm').submit();
+                }
+            });
+            
+            //
+            // Selecionando um accordion de acordo com o hash informado na url.
+            //
+            var hash = window.location.hash;
+
+            $(hash).collapse({
+                toggle: true
+            });
+            
+        });
+
+    </script>
+
+
+</body></html>
