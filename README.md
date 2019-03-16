@@ -19,4 +19,23 @@ Repositório cujo objetivo consiste de obter informações relativas aos discent
 
 * **paginas-web:** contém as páginas web com informações que foram utilizadas para gerar os csvs
 
+## Pré-requisitos:
+* Python 3
+* Bibliotecas: jupyter, pandas, numpy, codecs, seaborn, matplotlib
+Para instalar as bibliotecas, execute
 
+`sudo pip3 install <biblioteca>`
+
+# Executar os notebooks
+Para executar os notebooks:
+`cd <path para cursos-comp-uea`
+`jupyter notebook`
+
+# Adicionando material ao repo
+Para brincar com o repositório, siga estes passos:
+1. Dê fork (botão que fica perto do clone or download). Assim, você estará adicionando o repositório à sua lista pessoal.
+2. Clone seu novo repositório normalmente.
+3. Realize suas alterações, faça commits e pushs.
+4. Finalmente, navegue até a página do repositório em seu perfil do github e clique em "Compare and Pull Request".
+
+# Boa diversão!
